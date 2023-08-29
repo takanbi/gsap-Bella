@@ -116,7 +116,7 @@ body {
   position: relative;
   overflow: hidden;
 }
-.main-nav a:after {
+.main-nav a::after {
   display: block;
   content: '';
   height: 2px;
